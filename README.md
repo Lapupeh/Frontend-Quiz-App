@@ -1,18 +1,3 @@
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-
 
 ## Overview
 
@@ -34,10 +19,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub repo](https://your-solution-url.com)
-- Live Site URL: [Frontend Quiz App](https://your-live-site-url.com)
+- Solution URL: [GitHub repo](https://github.com/Lapupeh/Frontend-Quiz-App.git)
+- Live Site URL: [Frontend Quiz App](https://incandescent-kringle-ed2218.netlify.app/)
 
-## My process
 
 ### Built with
 
